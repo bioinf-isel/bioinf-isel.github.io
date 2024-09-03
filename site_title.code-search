@@ -1,0 +1,9 @@
+# Query: site.title
+# ContextLines: 1
+
+1 result - 1 file
+
+_layouts/default.html:
+  17        <header>
+  18:         <h2><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h2>
+  19  
