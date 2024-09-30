@@ -22,42 +22,54 @@ This workshop, will be on phylogeny and cophylogeny in general, mathematical mod
 
 ### Keynote lecturers
 
-<!--![image](./assets/img/FranciscoPinto.jpg){: style="float: left" width="20%" height="20% "}-->
-<img  title="a title" alt="Alt text" src="/assets/img/foto.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
-   
-Francisco Pinto, BioISI/FC, University of Lisbon in Portugal.
 
-Title talk: ...
+<img  title="a title" alt="Alt text" src="/assets/img/FranciscoPinto.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
+<!--<img  title="a title" alt="Alt text" src="/assets/img/foto.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />-->
+   
+**<span style="color:#647436">Francisco Pinto, BioISI/FC, University of Lisbon in Portugal.</span>**
+
+**<span style="color:#D34E24">Title talk: ...</span>**
 <br clear="left"/>
 
-Short abstract: ...
+**<span style="color:#D34E24">Short abstract: ...</span>**
 
-<img  title="a title" alt="Alt text" src="/assets/img/foto.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
+<img  title="a title" alt="Alt text" src="/assets/img/heather.jpeg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
    
-Heather Carleton, Enteric Diseases Laboratory Branch DFWED/NCEZID/CDC.
-
-Title talk: ...
+**<span style="color:#647436">Heather Carleton, Enteric Diseases Laboratory Branch DFWED/NCEZID/CDC.</span>**
 <br clear="left"/>
 
-Short abstract: ...
-
-<img  title="a title" alt="Alt text" src="/assets/img/foto.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
+<img  title="a title" alt="Alt text" src="/assets/img/faculty-wirth.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
    
-Lars Arvestad, Stockholm University.
+**<span style="color:#647436">Joe Wirth, ORISE Fellow,
+Enteric Diseases Laboratory Branch DFWED/NCEZID/CDC.</span>**
 
-Title talk: Scalable distance-based phylogeny inference using divide-and-conquer
+**<span style="color:#D34E24">Title talk: ...</span>**
 <br clear="left"/>
 
-Short abstract: ...
+**<span style="color:#D34E24">Short abstract: ...</span>**
 
-<img  title="a title" alt="Alt text" src="/assets/img/foto.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
+<img  title="a title" alt="Alt text" src="/assets/img/Lars1.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
    
-Laurent Jacob, LCQB lab of Sorbonne Université, Paris.
+**<span style="color:#647436">Lars Arvestad, Stockholm University.</span>**
 
-Title talk: ...
+**<span style="color:#D34E24"> Scalable distance-based phylogeny inference using divide-and-conquer</span>**
 <br clear="left"/>
 
-Short abstract: ...
+**<span style="color:#D34E24">Abstract:</span>** Inferring a phylogenetic tree is a common task in Computational Biology, and the choice of method depends on the analytical objectives and the characteristics of the dataset. Statistical methods are preferred when constructing a phylogenetic tree is the primary goal, due to their reliability, rich model specification options, and ability to evaluate alternative solutions. Distance-based methods are often used as subroutines for other methods because of their ease of use, straightforward implementation, and adequate speed in many applications.
+
+Neighbor-Joining (NJ) has become the most popular distance-based method for several reasons. It is easy to implement, easy to understand, and have proven to be a practical method with good results. However, the appeal of NJ is often overshadowed by its cubic time complexity, making it challenging to use on even medium-sized datasets by modern standards.
+
+We propose a new divide-and-conquer approach, implemented in two algorithms, DNCTREE and
+DNCTREE-k. Given a set S of sequences of length L and a distance-estimation method D as input, the algorithms compute an unrooted tree with the elements of S labeling the leaves. The methods partition S into three subproblems using a small set of sequences as guides, and only the distances to these guiding sequences are needed initially. The resulting trees from the subproblems are then connected to form the final tree. Base cases are computed using NJ. The DNCTREE algorithm has Atteson's convergence radius, ensuring correct phylogenies when distance estimation yields accurate results.
+
+<img  title="a title" alt="Alt text" src="/assets/img/laurent.png" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
+   
+**<span style="color:#647436">Laurent Jacob, LCQB lab of Sorbonne Université, Paris.</span>**
+
+**<span style="color:#D34E24">Title talk: ...</span>**
+<br clear="left"/>
+
+**<span style="color:#D34E24">Short abstract: ...</span>**
 
 
 <!--- This is a blockquote following a header.
@@ -70,36 +82,31 @@ When something is important enough, you do it even if the odds are not in your f
 In order to cover a larger audience, the workshop will take place in the afternoon, CET time (French time), on both days.
 
 
-|              | <span style="color:#236b00"> Monday 4</span>          | <span style="color:#236b00">Tuesday 5</span> |
+|              | <span style="color:#D34E24"> Monday 4</span>          | <span style="color:#D34E24">Tuesday 5</span> |
 |:-------------|:------------------|:----------|
-|  <span style="color:#236b00">14h00 \- 14h10</span>| Introduction to the workshop | Introduction to the second day  |
-| <span style="color:#236b00">14h10 \- 14h50</span> | Talk1: ...  | Talk4:...  |
-| <span style="color:#236b00">14h50 \- 15h05</span> | Questions and discussion on Talk 1     | Questions and discussion on Talk 4   |
-| <span style="color:#236b00">15h05 \- 15h15</span> | Short break | Short break  |
-| <span style="color:#236b00">14h10 \- 14h50</span> | Talk1: ...  | Talk4:...  |
-| <span style="color:#236b00">15h55 \- 16h10</span> | Questions and discussion on Talk 2     | Questions and discussion on Talk 5   |
-| <span style="color:#236b00">16h10 \- 16h20</span> | Short break | Short break  |
-| <span style="color:#236b00">16h20 \- 17h00</span> | Talk3: ...  | Talk6:...  |
-| <span style="color:#236b00">17h00 \- 17h15</span> | Questions and discussion on Talk 3     | Questions and discussion on Talk 6  |
-| <span style="color:#236b00">17h15 \- 17h30</span> | Final discussion and conclusion of the first day | Final discussion and conclusion of the workshop  |
+|  <span style="color:#D34E24">14h00 \- 14h10</span>| Introduction to the workshop | Introduction to the second day  |
+| <span style="color:#D34E24">14h10 \- 14h40</span> | Talk1: ...  | Talk4:...  |
+| <span style="color:#D34E24">14h40 \- 14h55</span> | Questions and discussion on Talk 1     | Questions and discussion on Talk 4   |
+| <span style="color:#D34E24">14h55 \- 15h05</span> | Short Break     | Short Break   |
+| <span style="color:#D34E24">15h05 \- 15h35</span> | Talk2: ...  | Talk3:...  |
+| <span style="color:#D34E24">15h35 \- 15h50</span> | Questions and discussion on Talk 2     | Questions and discussion on Talk 5   |
+| <span style="color:#D34E24">15h50 \- 16h00</span> | Short break | Short break  |
+| <span style="color:#D34E24">16h00 \- 16h30</span> | Discussion 1 | Discussion 2  |
+| <span style="color:#D34E24">16h30 \- 17h00</span> | Talk3: ...  | Talk6:...  |
+| <span style="color:#D34E24">17h00 \- 17h15</span> | Questions and discussion on Talk 3     | Questions and discussion on Talk 6  |
+| <span style="color:#D34E24">17h15 \- 17h30</span> | Final discussion and conclusion of the first day | Final discussion and conclusion of the workshop  |
 
 #### Registration
 
 ...
 
 #### Organization
-Alexandre Francisco - INESC-ID/IST, University of Lisbon in Portugal.
-
-Blerina Sinaimeri - Luiss University, Rome, Italy.
-
-Cátia Vaz – INESC-ID/ISEL, Polytechnic Institute of Lisbon in Portugal.
-
-Francisco Pinto -  BioISI/FC, University of Lisbon in Portugal.
-
-João Carriço.
-
-Marie-France Sagot – INRIA/Université Claude Bernard (Lyon 1).
-
+Alexandre Francisco - INESC-ID/IST, University of Lisbon in Portugal.\
+Blerina Sinaimeri - Luiss University, Rome, Italy.\
+Cátia Vaz – INESC-ID/ISEL, Polytechnic Institute of Lisbon in Portugal.\
+Francisco Pinto -  BioISI/FC, University of Lisbon in Portugal.\
+João Carriço.\
+Marie-France Sagot – INRIA/Université Claude Bernard (Lyon 1).\
 Susana Vinga - INESC-ID/IST, University of Lisbon in Portugal.
 
 #### Participants
