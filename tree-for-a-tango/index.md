@@ -28,10 +28,10 @@ This workshop, will be on phylogeny and cophylogeny in general, mathematical mod
    
 **<span style="color:#647436">Francisco Pinto, BioISI/FC, University of Lisbon in Portugal.</span>**
 
-**<span style="color:#D34E24">Title talk: ...</span>**
+**<span style="color:#D34E24">Title: TBA </span>**
 <br clear="left"/>
 
-**<span style="color:#D34E24">Short abstract: ...</span>**
+**<span style="color:#D34E24">Abstract: TBA</span>**
 
 <img  title="a title" alt="Alt text" src="/assets/img/heather.jpeg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
    
@@ -43,10 +43,10 @@ This workshop, will be on phylogeny and cophylogeny in general, mathematical mod
 **<span style="color:#647436">Joe Wirth, ORISE Fellow,
 Enteric Diseases Laboratory Branch DFWED/NCEZID/CDC.</span>**
 
-**<span style="color:#D34E24">Title talk: ...</span>**
+**<span style="color:#D34E24">Title: TBA </span>**
 <br clear="left"/>
 
-**<span style="color:#D34E24">Short abstract: ...</span>**
+**<span style="color:#D34E24">Abstract: TBA</span>**
 
 <img  title="a title" alt="Alt text" src="/assets/img/Lars1.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
    
@@ -66,10 +66,10 @@ DNCTREE-k. Given a set S of sequences of length L and a distance-estimation meth
    
 **<span style="color:#647436">Laurent Jacob, LCQB lab of Sorbonne Université, Paris.</span>**
 
-**<span style="color:#D34E24">Title talk: ...</span>**
+**<span style="color:#D34E24">Title: TBA </span>**
 <br clear="left"/>
 
-**<span style="color:#D34E24">Short abstract: ...</span>**
+**<span style="color:#D34E24">Abstract: TBA</span>**
 
 
 <!--- This is a blockquote following a header.
