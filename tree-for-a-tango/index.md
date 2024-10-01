@@ -111,7 +111,7 @@ Susana Vinga - INESC-ID/IST, University of Lisbon in Portugal.
 
 #### Participants
 
-We will indicate later the total number of participants. These came from a broad range of countries worldwide.
+We will indicate later the total number of participants.
 
 The <a href="https://olissipo.inesc-id.pt/">H2020 Twinning Project Olissipo</a> has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 951970.
 
