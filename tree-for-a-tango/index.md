@@ -69,7 +69,7 @@ DNCTREE-k. Given a set S of sequences of length L and a distance-estimation meth
 **<span style="color:#D34E24">Neural networks for likelihood-free inference in evolutionary genomics </span>**
 <br clear="left"/>
 
-**<span style="color:#D34E24">Abstract: Statistical inference in evolutionary genomics allows to estimate key
+**<span style="color:#D34E24">Abstract:</span>** Statistical inference in evolutionary genomics allows to estimate key
 parameters such as phylogenetic trees, diversification rates or
 reproductive numbers of pathogens. This inference relies on
 probabilistic models that represent how observed homologous sequences
@@ -81,7 +81,25 @@ probabilistic models. I will present an alternative likelihood-free
 approach exploiting samples rather than evaluations of the model. The
 methods I will present rely on neural network architecture that are
 specifically tailored to account for the symmetries of each inference
-problem.</span>**
+problem.
+
+<img  title="a title" alt="Alt text" src="/assets/img/MarianaBraga.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
+   
+**<span style="color:#647436">Mariana Braga, Stockholm University.</span>**
+
+**<span style="color:#D34E24"> Title: TBA  </span>**
+<br clear="left"/>
+
+**<span style="color:#D34E24">Abstract: TBA</span>** 
+
+<img  title="a title" alt="Alt text" src="/assets/img/MarianaBraga.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
+   
+**<span style="color:#647436">Ran Libeskind-Hadas, Claremont McKenna College </span>**
+
+**<span style="color:#D34E24"> Title: TBA  </span>**
+<br clear="left"/>
+
+**<span style="color:#D34E24">Abstract: TBA</span>** 
 
 
 <!--- This is a blockquote following a header.
