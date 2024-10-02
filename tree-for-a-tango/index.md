@@ -92,7 +92,7 @@ problem.
 
 **<span style="color:#D34E24">Abstract: TBA</span>** 
 
-<img  title="a title" alt="Alt text" src="/assets/img/MarianaBraga.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
+<img  title="a title" alt="Alt text" src="/assets/img/Ran.jpeg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
    
 **<span style="color:#647436">Ran Libeskind-Hadas, Claremont McKenna College </span>**
 
