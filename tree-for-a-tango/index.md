@@ -99,7 +99,7 @@ problem.
 **<span style="color:#D34E24"> Adventures in Cophylogenetics  </span>**
 <br clear="left"/>
 
-</span>** This talk will explore the problem of phylogenetic tree reconciliation to provide insights into the evolutionary histories of pairs of linked taxa such as hosts and parasites, hosts and symbionts, and others. We will discuss algorithmic approaches for tree reconciliation, demonstrate them using software tools developed in our research group, and discuss challenges and opportunities for further research in this area. 
+**<span style="color:#D34E24">Abstract: </span>** This talk will explore the problem of phylogenetic tree reconciliation to provide insights into the evolutionary histories of pairs of linked taxa such as hosts and parasites, hosts and symbionts, and others. We will discuss algorithmic approaches for tree reconciliation, demonstrate them using software tools developed in our research group, and discuss challenges and opportunities for further research in this area. 
 
 
 <!--- This is a blockquote following a header.
