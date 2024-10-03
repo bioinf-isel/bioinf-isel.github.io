@@ -128,7 +128,7 @@ In order to cover a larger audience, the workshop will take place in the afterno
 
 #### Registration
 
-The registration can be done [here](https://www.eventbrite.com/e/tree-for-a-tango-workshop-in-phylogeny-and-cophylogeny-1st-edition-tickets-1037760408317?aff=oddtdtcreator).
+The registration can be done **[here](https://www.eventbrite.com/e/tree-for-a-tango-workshop-in-phylogeny-and-cophylogeny-1st-edition-tickets-1037760408317?aff=oddtdtcreator)**.
 
 #### Organization
 Alexandre Francisco - INESC-ID/IST, University of Lisbon in Portugal.\
