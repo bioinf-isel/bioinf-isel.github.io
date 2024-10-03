@@ -26,7 +26,7 @@ This workshop, will be on phylogeny and cophylogeny in general, mathematical mod
 <img  title="a title" alt="Alt text" src="/assets/img/FranciscoPinto.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
 <!--<img  title="a title" alt="Alt text" src="/assets/img/foto.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />-->
    
-**<span style="color:#647436">Francisco Pinto, BioISI/FC, University of Lisbon in Portugal.</span>**
+**<span style="color:#647436">Francisco Pinto, BioISI/FC, University of Lisbon, Portugal.</span>**
 
 **<span style="color:#D34E24">Title: TBA </span>**
 <br clear="left"/>
@@ -35,13 +35,13 @@ This workshop, will be on phylogeny and cophylogeny in general, mathematical mod
 
 <img  title="a title" alt="Alt text" src="/assets/img/heather.jpeg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
    
-**<span style="color:#647436">Heather Carleton, Enteric Diseases Laboratory Branch DFWED/NCEZID/CDC.</span>**
+**<span style="color:#647436">Heather Carleton, Enteric Diseases Laboratory Branch DFWED/NCEZID/CDC, US.</span>**
 <br clear="left"/>
 
 <img  title="a title" alt="Alt text" src="/assets/img/faculty-wirth.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
    
-**<span style="color:#647436">Joe Wirth, ORISE Fellow,
-Enteric Diseases Laboratory Branch DFWED/NCEZID/CDC.</span>**
+**<span style="color:#647436">Joe Wirth,
+Enteric Diseases Laboratory Branch DFWED/NCEZID/CDC, US.</span>**
 
 **<span style="color:#D34E24">Title: TBA </span>**
 <br clear="left"/>
@@ -50,7 +50,7 @@ Enteric Diseases Laboratory Branch DFWED/NCEZID/CDC.</span>**
 
 <img  title="a title" alt="Alt text" src="/assets/img/Lars1.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
    
-**<span style="color:#647436">Lars Arvestad, Stockholm University.</span>**
+**<span style="color:#647436">Lars Arvestad, Stockholm University, Sweden.</span>**
 
 **<span style="color:#D34E24"> Scalable distance-based phylogeny inference using divide-and-conquer</span>**
 <br clear="left"/>
@@ -64,7 +64,7 @@ DNCTREE-k. Given a set S of sequences of length L and a distance-estimation meth
 
 <img  title="a title" alt="Alt text" src="/assets/img/laurent.png" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
    
-**<span style="color:#647436">Laurent Jacob, LCQB lab of Sorbonne Université, Paris.</span>**
+**<span style="color:#647436">Laurent Jacob, LCQB lab of Sorbonne Université, France.</span>**
 
 **<span style="color:#D34E24">Neural networks for likelihood-free inference in evolutionary genomics </span>**
 <br clear="left"/>
@@ -85,7 +85,7 @@ problem.
 
 <img  title="a title" alt="Alt text" src="/assets/img/MarianaBraga.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
    
-**<span style="color:#647436">Mariana Braga, Stockholm University.</span>**
+**<span style="color:#647436">Mariana Braga, Stockholm University, Sweden.</span>**
 
 **<span style="color:#D34E24"> Title: TBA  </span>**
 <br clear="left"/>
@@ -94,7 +94,7 @@ problem.
 
 <img  title="a title" alt="Alt text" src="/assets/img/Ran.jpeg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
    
-**<span style="color:#647436">Ran “RON” Libeskind-Hadas, Claremont McKenna College </span>**
+**<span style="color:#647436">Ran “RON” Libeskind-Hadas, Claremont McKenna College, US. </span>**
 
 **<span style="color:#D34E24"> Adventures in Cophylogenetics  </span>**
 <br clear="left"/>
