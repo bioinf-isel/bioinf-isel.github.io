@@ -94,12 +94,12 @@ problem.
 
 <img  title="a title" alt="Alt text" src="/assets/img/Ran.jpeg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
    
-**<span style="color:#647436">Ran Libeskind-Hadas, Claremont McKenna College </span>**
+**<span style="color:#647436">Ran “RON” Libeskind-Hadas, Claremont McKenna College </span>**
 
-**<span style="color:#D34E24"> Title: TBA  </span>**
+**<span style="color:#D34E24"> Adventures in Cophylogenetics  </span>**
 <br clear="left"/>
 
-**<span style="color:#D34E24">Abstract: TBA</span>** 
+**<span style="color:#D34E24">This talk will explore the problem of phylogenetic tree reconciliation to provide insights into the evolutionary histories of pairs of linked taxa such as hosts and parasites, hosts and symbionts, and others. We will discuss algorithmic approaches for tree reconciliation, demonstrate them using software tools developed in our research group, and discuss challenges and opportunities for further research in this area.</span>** 
 
 
 <!--- This is a blockquote following a header.
