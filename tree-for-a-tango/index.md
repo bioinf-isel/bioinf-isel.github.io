@@ -115,20 +115,20 @@ In order to cover a larger audience, the workshop will take place in the afterno
 |              | <span style="color:#D34E24"> Monday 4</span>          | <span style="color:#D34E24">Tuesday 5</span> |
 |:-------------|:------------------|:----------|
 |  <span style="color:#D34E24">14h00 \- 14h10</span>| Introduction to the workshop | Introduction to the second day  |
-| <span style="color:#D34E24">14h10 \- 14h40</span> | Talk1: ...  | Talk4:...  |
+| <span style="color:#D34E24">14h10 \- 14h40</span> | Talk1: To be announced  | Talk4: To be announced  |
 | <span style="color:#D34E24">14h40 \- 14h55</span> | Questions and discussion on Talk 1     | Questions and discussion on Talk 4   |
 | <span style="color:#D34E24">14h55 \- 15h05</span> | Short Break     | Short Break   |
-| <span style="color:#D34E24">15h05 \- 15h35</span> | Talk2: ...  | Talk3:...  |
+| <span style="color:#D34E24">15h05 \- 15h35</span> | Talk2: To be announced  | Talk3: To be announced  |
 | <span style="color:#D34E24">15h35 \- 15h50</span> | Questions and discussion on Talk 2     | Questions and discussion on Talk 5   |
 | <span style="color:#D34E24">15h50 \- 16h00</span> | Short break | Short break  |
 | <span style="color:#D34E24">16h00 \- 16h30</span> | Discussion 1 | Discussion 2  |
-| <span style="color:#D34E24">16h30 \- 17h00</span> | Talk3: ...  | Talk6:...  |
+| <span style="color:#D34E24">16h30 \- 17h00</span> | Talk3: To be announced  | Talk6: To be announced  |
 | <span style="color:#D34E24">17h00 \- 17h15</span> | Questions and discussion on Talk 3     | Questions and discussion on Talk 6  |
 | <span style="color:#D34E24">17h15 \- 17h30</span> | Final discussion and conclusion of the first day | Final discussion and conclusion of the workshop  |
 
 #### Registration
 
-The registration can be done **[here](https://www.eventbrite.com/e/tree-for-a-tango-workshop-in-phylogeny-and-cophylogeny-1st-edition-tickets-1037790067027?aff=oddtdtcreator)**.
+The registration is free but compulsory. A Zoom link will be sent just before the workshop starts. Registration can be done **[here](https://www.eventbrite.com/e/tree-for-a-tango-workshop-in-phylogeny-and-cophylogeny-1st-edition-tickets-1037790067027?aff=oddtdtcreator)**.
 
 #### Organization
 Alexandre Francisco - INESC-ID/IST, University of Lisbon in Portugal.\
