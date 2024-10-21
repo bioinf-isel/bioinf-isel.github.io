@@ -87,10 +87,10 @@ problem.
    
 **<span style="color:#647436">Mariana Braga, Stockholm University, Sweden.</span>**
 
-**<span style="color:#D34E24"> Title: TBA  </span>**
+**<span style="color:#D34E24"> Inferring host repertoire evolution  </span>**
 <br clear="left"/>
 
-**<span style="color:#D34E24">Abstract: TBA</span>** 
+**<span style="color:#D34E24">Abstract:</span>** In this talk I will describe the model for Bayesian inference of host repertoire evolution, give examples of how we have used it to investigate the evolution of species interactions, with a special focus on butterflies and their larval host plants. The talk will include results produced with software that have been available for a couple years, e.g. for reconstruction of network evolution, as well as software that is currently in development. 
 
 <img  title="a title" alt="Alt text" src="/assets/img/Ran.jpeg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
    
