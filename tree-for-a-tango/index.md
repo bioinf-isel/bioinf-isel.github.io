@@ -85,7 +85,7 @@ problem.
 
 <img  title="a title" alt="Alt text" src="/assets/img/MarianaBraga.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
    
-**<span style="color:#647436">Mariana Braga, Stockholm University, Sweden.</span>**
+**<span style="color:#647436">Mariana Braga, Swedish University of Agricultural Sciences, Sweden.</span>**
 
 **<span style="color:#D34E24"> Inferring host repertoire evolution  </span>**
 <br clear="left"/>
