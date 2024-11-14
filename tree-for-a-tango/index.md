@@ -28,7 +28,7 @@ This workshop, will be on phylogeny and cophylogeny in general, mathematical mod
    
 **<span style="color:#647436">Francisco Pinto, BioISI/FC, University of Lisbon, Portugal.</span>**
 
-**<span style="color:#D34E24">Title: Evolution and regulation of microbial secondary metabolism </span>**
+**<span style="color:#D34E24">Title: Evolution and regulation of microbial secondary metabolism </span>**<a href="/assets/presentations/FranciscoTalk.pdf">[slides here]</a> <a href="https://youtu.be/AgD8SckVtlE">[presentation online here]</a>
 <br clear="left"/>
 
 **<span style="color:#D34E24">Abstract: Microbes have disproportionate impacts on the macroscopic world.</span>** This is in part due to their ability to grow to large populations that collectively secrete massive amounts of secondary metabolites and alter their environment. Yet, the conditions favoring secondary metabolism despite the potential costs for primary metabolism remain unclear. Here we investigated the biosurfactants that the bacterium Pseudomonas aeruginosa makes and secretes to decrease the surface tension of surrounding liquid. Using a combination of genomics, metabolomics, transcriptomics, and mathematical modeling we show that the ability to make surfactants from glycerol varies inconsistently across the phylogenetic tree; instead, lineages that lost this ability are also worse at reducing the oxidative stress of primary metabolism on glycerol. Experiments with different carbon sources support a link with oxidative stress that explains the inconsistent distribution across the P. aeruginosa phylogeny and suggests a general principle: P. aeruginosa lineages produce surfactants if they can reduce the oxidative stress produced by primary metabolism and have excess resources, beyond their primary needs, to afford secondary metabolism. These results add a new layer to the regulation of a secondary metabolite unessential for primary metabolism but important to change physical properties of the environments surrounding bacterial populations.
@@ -54,7 +54,8 @@ Enteric Diseases Laboratory Branch DFWED/NCEZID/CDC, US.</span>**
    
 **<span style="color:#647436">Lars Arvestad, Stockholm University, Sweden.</span>**
 
-**<span style="color:#D34E24"> Scalable distance-based phylogeny inference using divide-and-conquer</span>**
+**<span style="color:#D34E24"> Scalable distance-based phylogeny inference using divide-and-conquer</span>**<a href="https://youtu.be/bus0IRoDeiM">[presentation online here]</a>
+
 <br clear="left"/>
 
 **<span style="color:#D34E24">Abstract:</span>** Inferring a phylogenetic tree is a common task in Computational Biology, and the choice of method depends on the analytical objectives and the characteristics of the dataset. Statistical methods are preferred when constructing a phylogenetic tree is the primary goal, due to their reliability, rich model specification options, and ability to evaluate alternative solutions. Distance-based methods are often used as subroutines for other methods because of their ease of use, straightforward implementation, and adequate speed in many applications.
@@ -68,7 +69,7 @@ DNCTREE-k. Given a set S of sequences of length L and a distance-estimation meth
    
 **<span style="color:#647436">Laurent Jacob, LCQB lab of Sorbonne Université, France.</span>**
 
-**<span style="color:#D34E24">Neural networks for likelihood-free inference in evolutionary genomics </span>**
+**<span style="color:#D34E24">Neural networks for likelihood-free inference in evolutionary genomics </span>**<a href="/assets/presentations/LaurentTalk.pdf">[slides here]</a> <a href="https://youtu.be/DdFpRUonjxs">[presentation online here]</a>
 <br clear="left"/>
 
 **<span style="color:#D34E24">Abstract:</span>** Statistical inference in evolutionary genomics allows to estimate key
