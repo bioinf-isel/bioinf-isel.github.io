@@ -43,7 +43,7 @@ This workshop, will be on phylogeny and cophylogeny in general, mathematical mod
 **<span style="color:#647436">Joe Wirth,
 Enteric Diseases Laboratory Branch DFWED/NCEZID/CDC, US.</span>**
 
-**<span style="color:#D34E24"> Molecular surveillance in public health using phylogenetics </span>***<a href="https://youtu.be/K5mcrLAxoF4">[presentation online here]</a>
+**<span style="color:#D34E24"> Molecular surveillance in public health using phylogenetics </span>**<a href="https://youtu.be/K5mcrLAxoF4">[presentation online here]</a>
 
 
 <br clear="left"/>
