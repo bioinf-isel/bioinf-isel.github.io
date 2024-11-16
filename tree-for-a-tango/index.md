@@ -43,7 +43,9 @@ This workshop, will be on phylogeny and cophylogeny in general, mathematical mod
 **<span style="color:#647436">Joe Wirth,
 Enteric Diseases Laboratory Branch DFWED/NCEZID/CDC, US.</span>**
 
-**<span style="color:#D34E24"> Molecular surveillance in public health using phylogenetics </span>**
+**<span style="color:#D34E24"> Molecular surveillance in public health using phylogenetics </span>***<a href="https://youtu.be/K5mcrLAxoF4">[presentation online here]</a>
+
+
 <br clear="left"/>
 
 **<span style="color:#D34E24">Abstract:</span>** Whole Genome Sequencing (WGS) technologies have revolutionized how Public Health and Regulatory Agencies respond to foodborne, waterborne, and one-health related surveillance, detection, and response activities. WGS data is comprehensive: antimicrobial resistance, virulence markers, serotype markers, plasmids, and core and accessory genes are all characterized as part of the WGS workflow. Currently, PulseNet USA sequences approximately 65,000 Salmonella, Escherichia, Listeria, Vibrio, Campylobacter, and Shigella isolates and uses these data to detect over 400 potential outbreaks annually. Allele calls from core genome and WGS multi-locus sequence typing (MLST) are used to generate single linkage trees. These trees are evaluated to identify potential outbreaks using a set of epidemiologic and phylogenetic criteria. Other algorithms such as maximum likelihood and Bayesian inference can be used to infer evolutionary relationships and to link the emergence of clades to specific times.
