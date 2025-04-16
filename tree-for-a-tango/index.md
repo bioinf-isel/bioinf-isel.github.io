@@ -150,6 +150,8 @@ We will indicate later the total number of participants.
 
 The <a href="https://olissipo.inesc-id.pt/">H2020 Twinning Project Olissipo</a> has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 951970.
 
+This workshop was supported also by project IPL/IDI&CA2023/PhyloLearn_ISEL.
+
 <img  title="a title" alt="Alt text" src="/assets/img/Ist.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
 <img  title="a title" alt="Alt text" src="/assets/img/INRIA_CORPO_SANS_SIGNATURE_RVB.png" width="15%" height="15%" style="float: left;  padding-top:15px; padding-right: 10px; " />
 <img  title="a title" alt="Alt text" src="/assets/img/logo_ISEL_principal_PNG.png" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
