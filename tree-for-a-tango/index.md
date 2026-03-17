@@ -62,14 +62,11 @@ Susana Vinga - INESC-ID/IST, University of Lisbon in Portugal.
 
 We will indicate later the total number of participants.
 
-The <a href="https://olissipo.inesc-id.pt/">H2020 Twinning Project Olissipo</a> has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 951970.
-
-This workshop was supported also by project IPL/IDI&CA2023/PhyloLearn_ISEL.
+This workshop is supported by projects <a href="https://gitlab.inesc-id.pt/phyloviz/traci">TRACI</a> and RESONANCE, funded by Fundação para a Ciência e a Tecnologia I.P. (FCT), under grants 2023.17447.ICDT and TBD.
 
 <img  title="a title" alt="Alt text" src="/assets/img/Ist.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
 <img  title="a title" alt="Alt text" src="/assets/img/INRIA_CORPO_SANS_SIGNATURE_RVB.png" width="15%" height="15%" style="float: left;  padding-top:15px; padding-right: 10px; " />
 <img  title="a title" alt="Alt text" src="/assets/img/logo_ISEL_principal_PNG.png" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
-<img  title="a title"  alt="Alt text" src="/assets/img/Ciencias_UL_Azul_H.png" width="20%" height="20%" style="float: left; padding-top:20px; padding-right: 10px; " />
 <img  title="a title" alt="Alt text" src="/assets/img/Logoluiss.png" width="15%" height="15%" style="float: left; padding-top:25px; padding-right: 10px; " />
 <br clear="left"/>
 <img  title="a title" alt="Alt text" src="/assets/img/INESC-ID-logo_01.png" width="20%" height="20%" style="float: left; padding-top:20px; padding-right: 10px; " />
