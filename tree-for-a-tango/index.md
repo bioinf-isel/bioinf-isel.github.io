@@ -42,7 +42,7 @@ In order to cover a larger audience, the workshop will take place in the afterno
 | <span style="color:#D34E24">15h05 \- 15h35</span> | Talk 2  | Talk 5  |
 | <span style="color:#D34E24">15h35 \- 15h50</span> | Questions and discussion on Talk 2     | Questions and discussion on Talk 5   |
 | <span style="color:#D34E24">15h50 \- 16h00</span> | Short break | Short break  |
-| <span style="color:#D34E24">16h00 \- 16h30</span> | Discussion 1 | Discussion 2  |
+| <span style="color:#D34E24">16h00 \- 16h30</span> | Abstracts presentation 1 | Abstracts presentation 2  |
 | <span style="color:#D34E24">16h30 \- 17h00</span> | Talk 3  | Talk 6  |
 | <span style="color:#D34E24">17h00 \- 17h15</span> | Questions and discussion on Talk 3     | Questions and discussion on Talk 6  |
 | <span style="color:#D34E24">17h15 \- 17h30</span> | Final discussion and conclusion of the first day | Final discussion and conclusion of the workshop  |
@@ -55,8 +55,6 @@ The registration is free but compulsory. A Zoom link will be sent just before th
 Alexandre Francisco - INESC-ID/IST, University of Lisbon in Portugal.\
 Blerina Sinaimeri - Luiss University, Rome, Italy.\
 Cátia Vaz – INESC-ID/ISEL, Polytechnic Institute of Lisbon in Portugal.\
-Francisco Pinto -  BioISI/FC, University of Lisbon in Portugal.\
-João Carriço.\
 Marie-France Sagot – INRIA/Université Claude Bernard (Lyon 1).\
 Susana Vinga - INESC-ID/IST, University of Lisbon in Portugal.
 
