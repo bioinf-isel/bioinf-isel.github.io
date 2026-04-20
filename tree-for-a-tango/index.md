@@ -71,7 +71,7 @@ This workshop, will be on phylogeny and cophylogeny in general, mathematical mod
 
 In order to cover a larger audience, the workshop will take place in the afternoon, CEST time (French time), on both days.
 
-|              | <span style="color:#D34E24"> Monday 16</span>          | <span style="color:#D34E24">Tuesday 17</span> |
+|              | <span style="color:#D34E24"> Tuesday 16</span>          | <span style="color:#D34E24"> Wednesday 17</span> |
 |:-------------|:------------------|:----------|
 |  <span style="color:#D34E24">14h00 \- 14h10</span>| Introduction to the workshop | Introduction to the second day  |
 | <span style="color:#D34E24">14h10 \- 14h40</span> | Talk 1  | Talk 4 |
