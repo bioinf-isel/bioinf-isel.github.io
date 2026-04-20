@@ -13,13 +13,29 @@ edition: "2nd Edition"
 This workshop, will be on phylogeny and cophylogeny in general, mathematical modelling and algorithms, and on biology/health. The workshop is open to the community in general.
 
 ### Keynote lecturers
+
+<img  title="a title" alt="Alt text" src="/assets/img/DeVienneD1.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
+<!--<img  title="a title" alt="Alt text" src="/assets/img/foto.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />-->
+   
+**<span style="color:#647436">Damien de Vienne, LBBE, UCB Lyon 1, France.</span>**
+
+**<span style="color:#D34E24">To be announced </span>**
+<br clear="left"/>
+
+**<span style="color:#D34E24">To be announced.</span>** 
+
+
 <img  title="a title" alt="Alt text" src="/assets/img/james.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
 
 **<span style="color:#647436">James Rosindell, Faculty of Natural Sciences, Imperial College, United Kingdom.</span>**
 
-**<span style="color:#D34E24">Title: To be announced </span>**
+**<span style="color:#D34E24">To be announced </span>**
 <br clear="left"/>
-**<span style="color:#D34E24">Abstract: To be announced
+
+**<span style="color:#D34E24">To be announced.</span>** 
+
+
+
 
 
 *To be announced*
