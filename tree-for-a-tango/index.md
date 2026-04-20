@@ -8,11 +8,11 @@ edition: "2nd Edition"
 
 <strong>Dates:</strong> June 16-17, 2026
 
-<strong>Location:</strong> TBD
+<strong>Location:</strong> This workshop will be held in a virtual way
 
 This workshop, will be on phylogeny and cophylogeny in general, mathematical modelling and algorithms, and on biology/health. The workshop is open to the community in general.
 
-### Keynote lecturers
+### Keynote speakers
 
 <img  title="a title" alt="Alt text" src="/assets/img/DeVienneD1.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
 <!--<img  title="a title" alt="Alt text" src="/assets/img/foto.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />-->
@@ -54,8 +54,6 @@ This workshop, will be on phylogeny and cophylogeny in general, mathematical mod
 
 
 
-*To be announced*
-
 <!-- Template for speaker
 <img  title="a title" alt="Alt text" src="/assets/img/SPEAKER_IMAGE.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
    
@@ -82,7 +80,7 @@ In order to cover a larger audience, the workshop will take place in the afterno
 | <span style="color:#D34E24">15h05 \- 15h35</span> | Talk 2  | Talk 5  |
 | <span style="color:#D34E24">15h35 \- 15h50</span> | Questions and discussion on Talk 2     | Questions and discussion on Talk 5   |
 | <span style="color:#D34E24">15h50 \- 16h00</span> | Short break | Short break  |
-| <span style="color:#D34E24">16h00 \- 16h30</span> | Abstracts presentation 1 | Abstracts presentation 2  |
+| <span style="color:#D34E24">16h00 \- 16h30</span> | Abstract presentations 1 | Abstract presentations 2  |
 | <span style="color:#D34E24">16h30 \- 17h00</span> | Talk 3  | Talk 6  |
 | <span style="color:#D34E24">17h00 \- 17h15</span> | Questions and discussion on Talk 3     | Questions and discussion on Talk 6  |
 | <span style="color:#D34E24">17h15 \- 17h30</span> | Final discussion and conclusion of the first day | Final discussion and conclusion of the workshop  |
