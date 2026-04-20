@@ -13,7 +13,7 @@ edition: "2nd Edition"
 This workshop, will be on phylogeny and cophylogeny in general, mathematical modelling and algorithms, and on biology/health. The workshop is open to the community in general.
 
 ### Keynote lecturers
-<img  title="a title" alt="Alt text" src="/assets/img/James.jpeg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
+<img  title="a title" alt="Alt text" src="/assets/img/James.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
 
 **<span style="color:#647436">James Rosindell, Faculty of Natural Sciences, Imperial College, United Kingdom.</span>**
 
