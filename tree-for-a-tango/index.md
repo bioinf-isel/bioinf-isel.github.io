@@ -34,7 +34,7 @@ This workshop, will be on phylogeny and cophylogeny in general, mathematical mod
 
 **<span style="color:#D34E24">Abstract: To be announced.</span>** 
 
-<img  title="a title" alt="Alt text" src="/assets/img/joanacxavier_204.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
+<img  title="a title" alt="Alt text" src="/assets/img/joanacxavier_240.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
 
 **<span style="color:#647436">Joana Xavier.</span>**
 
@@ -43,6 +43,14 @@ This workshop, will be on phylogeny and cophylogeny in general, mathematical mod
 
 **<span style="color:#D34E24">Abstract: To be announced.</span>** 
 
+<img  title="a title" alt="Alt text" src="/assets/img/MaribelHernandez.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
+
+**<span style="color:#647436">Maribel Hernandez-Rosales, CINVESTAV Irapuato, Mexico.</span>**
+
+**<span style="color:#D34E24">Title: To be announced </span>**
+<br clear="left"/>
+
+**<span style="color:#D34E24">Abstract: To be announced.</span>** 
 
 
 
