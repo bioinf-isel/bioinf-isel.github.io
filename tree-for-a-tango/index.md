@@ -14,6 +14,11 @@ This workshop, will be on phylogeny and cophylogeny in general, mathematical mod
 
 ### Keynote lecturers
 
+**<span style="color:#647436">James Rosindell, Faculty of Natural Sciences, Imperial College, United Kingdom.</span>**
+
+**<span style="color:#D34E24">Title: To be announced </span>**
+<br clear="left"/>
+
 *To be announced*
 
 <!-- Template for speaker
