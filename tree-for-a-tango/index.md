@@ -87,7 +87,7 @@ In order to cover a larger audience, the workshop will take place in the afterno
 
 #### Registration
 
-The registration is free but compulsory. A Zoom link will be sent just before the workshop starts. Registration details to be announced.
+The registration is free but compulsory. A Zoom link will be sent just before the workshop starts. Registration can be done **[here](https://cloud.inesc-id.pt/apps/forms/s/GxdjG4NcwPxyKmiJjyXjqWrA)**.
 
 #### Organization
 Alexandre Francisco - INESC-ID/IST, University of Lisbon in Portugal.\
