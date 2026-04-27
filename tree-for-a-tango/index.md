@@ -43,15 +43,16 @@ This workshop, will be on phylogeny and cophylogeny in general, mathematical mod
 
 **<span style="color:#D34E24">Abstract: To be announced.</span>** 
 
-<img  title="a title" alt="Alt text" src="/assets/img/MaribelHernandez.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
+
+<img  title="a title" alt="Alt text" src="/assets/img/kathi.jpeg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
 
 **<span style="color:#647436">Katharina Huber, School of Computing Sciences, University of East Anglia, United Kingdom.</span>**
 
 **<span style="color:#D34E24">Abstract: To be announced.</span>** 
 
-<img  title="a title" alt="Alt text" src="/assets/img/kathi.jpeg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
 
 
+<img  title="a title" alt="Alt text" src="/assets/img/MaribelHernandez.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
 
 **<span style="color:#647436">Maribel Hernandez-Rosales, CINVESTAV Irapuato, Mexico.</span>**
 
@@ -60,6 +61,14 @@ This workshop, will be on phylogeny and cophylogeny in general, mathematical mod
 
 **<span style="color:#D34E24">Abstract: To be announced.</span>** 
 
+<img  title="a title" alt="Alt text" src="/assets/img/Timothee_Poisot.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
+
+**<span style="color:#647436">Timothée Poisot, Faculty of Arts and Science, University of Montreal, Canada.</span>**
+
+**<span style="color:#D34E24">Title: To be announced </span>**
+<br clear="left"/>
+
+**<span style="color:#D34E24">Abstract: To be announced.</span>** 
 
 
 <!-- Template for speaker
