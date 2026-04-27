@@ -48,6 +48,9 @@ This workshop, will be on phylogeny and cophylogeny in general, mathematical mod
 
 **<span style="color:#647436">Katharina Huber, School of Computing Sciences, University of East Anglia, United Kingdom.</span>**
 
+**<span style="color:#D34E24">Title: To be announced </span>**
+<br clear="left"/>
+
 **<span style="color:#D34E24">Abstract: To be announced.</span>** 
 
 
