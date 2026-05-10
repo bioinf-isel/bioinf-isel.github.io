@@ -29,10 +29,13 @@ This workshop, will be on phylogeny and cophylogeny in general, mathematical mod
 
 **<span style="color:#647436">James Rosindell, Faculty of Natural Sciences, Imperial College, United Kingdom.</span>**
 
-**<span style="color:#D34E24">Title: To be announced </span>**
+**<span style="color:#D34E24">Title: Measuring and exploring the tree of life at the largest scales. </span>**
 <br clear="left"/>
 
-**<span style="color:#D34E24">Abstract: To be announced.</span>** 
+**<span style="color:#D34E24">Abstract: This talk will share mathematical and algorithmic techniques for measuring and exploring the tree of life at large scales. Phylogenetic Diversity is one of the most prominent measures of biodiversity based on phylogeny. It is used routinely in studies of macroecology and macroevolution and in real-world conservation applications. Previous work, both empirical and theoretical, has investigated the link between Phylogenetic Diversity and Functional Diversity producing mixed results. This talk will revisit Phylogeny Diversity and explore a new concept: Evolutionary Heritage, which accounts for loss of features. As example applications we will discuss the connection between phylogenetic metrics and ecosystem function, quantitative detection of "living fossils”, and the validity of phylogenetic diversity at the scale of the complete tree of life. Finally, we move on to demonstrate methods for visualising and exploring the complete tree of life for scientific and educational purposes.</span>** 
+
+**<span style="color:#D34E24">Short Bio: After completing a degree in Mathematics (2005) and PhD in Biology (2008), James Rosindell joined Imperial College as a research fellow (2012) and later became Professor of Biodiversity Theory (2023). Notable achievements include the Linnean Society’s Bicentenary Medal (2023). Utilising an interdisciplinary background, his research focuses on the modelling and measurement of biodiversity and has included a lot of phylogeny focused work. He is a passionate advocate of conservation and public outreach having founded a not-for-profit organisation OneZoom for this purpose. OneZoom hosts a tree of life explorer which has reached over 2.5 million people. </span>**
+<br clear="left"/>
 
 <img  title="a title" alt="Alt text" src="/assets/img/joanacxavier_240.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
 
