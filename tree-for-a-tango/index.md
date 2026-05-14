@@ -70,8 +70,7 @@ Damien de Vienne is a CNRS research scientist affiliated with the Laboratoire de
 <br clear="left"/>
 
 **<span style="color:#D34E24">Abstract:</span>**
-
-How do gene families grow, shrink, and diversify across the tree of life? can we reconstruct that history reliably, rapidly, and at scale?
+ How do gene families grow, shrink, and diversify across the tree of life? can we reconstruct that history reliably, rapidly, and at scale?
 
 Answering that question sits at the heart of comparative genomics, yet the path from raw protein or DNA sequences to meaningful evolutionary insights has long been fragmented: multiple tools, manual integration steps, and a level of technical expertise that puts the analysis out of reach for many researchers.
 
