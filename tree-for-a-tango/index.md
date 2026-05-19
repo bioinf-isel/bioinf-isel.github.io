@@ -121,14 +121,14 @@ In order to cover a larger audience, the workshop will take place in the afterno
 |              | <span style="color:#D34E24"> Tuesday 16</span>          | <span style="color:#D34E24"> Wednesday 17</span> |
 |:-------------|:------------------|:----------|
 |  <span style="color:#D34E24">14h00 \- 14h10</span>| Introduction to the workshop | Introduction to the second day  |
-| <span style="color:#D34E24">14h10 \- 14h40</span> | Talk 1  | Talk 4 |
+| <span style="color:#D34E24">14h10 \- 14h40</span> | Talk 1  James Rosindell | Talk 4 Timothée Poisot |
 | <span style="color:#D34E24">14h40 \- 14h55</span> | Questions and discussion on Talk 1     | Questions and discussion on Talk 4   |
 | <span style="color:#D34E24">14h55 \- 15h05</span> | Short Break     | Short Break   |
-| <span style="color:#D34E24">15h05 \- 15h35</span> | Talk 2  | Talk 5  |
+| <span style="color:#D34E24">15h05 \- 15h35</span> | Talk 2 Katharina Huber | Talk 5 Joana Xavier |
 | <span style="color:#D34E24">15h35 \- 15h50</span> | Questions and discussion on Talk 2     | Questions and discussion on Talk 5   |
 | <span style="color:#D34E24">15h50 \- 16h00</span> | Short break | Short break  |
 | <span style="color:#D34E24">16h00 \- 16h30</span> | Abstract presentations 1 | Abstract presentations 2  |
-| <span style="color:#D34E24">16h30 \- 17h00</span> | Talk 3  | Talk 6  |
+| <span style="color:#D34E24">16h30 \- 17h00</span> | Talk 3 Damien de Vienne  | Talk 6 Maribel Hernandez-Rosales  |
 | <span style="color:#D34E24">17h00 \- 17h15</span> | Questions and discussion on Talk 3     | Questions and discussion on Talk 6  |
 | <span style="color:#D34E24">17h15 \- 17h30</span> | Final discussion and conclusion of the first day | Final discussion and conclusion of the workshop  |
 
