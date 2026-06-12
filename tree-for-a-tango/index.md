@@ -127,9 +127,9 @@ In order to cover a larger audience, the workshop will take place in the afterno
 | <span style="color:#D34E24">15h05 \- 15h35</span> | Talk 2 Katharina Huber | Talk 5 Joana Xavier |
 | <span style="color:#D34E24">15h35 \- 15h50</span> | Questions and discussion on Talk 2     | Questions and discussion on Talk 5   |
 | <span style="color:#D34E24">15h50 \- 16h00</span> | Short break | Short break  |
-| <span style="color:#D34E24">16h00 \- 16h30</span> | [12/06/2026, 15:29:22] Cátia Vaz: Julien Richard Albert 
+| <span style="color:#D34E24">16h00 \- 16h30</span> | Julien Richard Albert 
 Using evolutionary signatures of rapid evolution to uncover novel factors in the transposon restriction pathway in Paramecium.
-[12/06/2026, 15:29:36] Cátia Vaz: Enzo Marsot
+ Enzo Marsot
 Accurate and flexible reconciliation with neural networks 
 
 Khaoula El Mchachti
