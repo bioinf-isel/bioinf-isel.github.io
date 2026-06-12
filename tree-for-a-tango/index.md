@@ -127,17 +127,10 @@ In order to cover a larger audience, the workshop will take place in the afterno
 | <span style="color:#D34E24">15h05 \- 15h35</span> | Talk 2 Katharina Huber | Talk 5 Joana Xavier |
 | <span style="color:#D34E24">15h35 \- 15h50</span> | Questions and discussion on Talk 2     | Questions and discussion on Talk 5   |
 | <span style="color:#D34E24">15h50 \- 16h00</span> | Short break | Short break  |
-| <span style="color:#D34E24">16h00 \- 16h30</span> | Julien Richard Albert 
-Using evolutionary signatures of rapid evolution to uncover novel factors in the transposon restriction pathway in Paramecium.
- Enzo Marsot
-Accurate and flexible reconciliation with neural networks 
-
-Khaoula El Mchachti
-Core-Gene Consensus Delimitation (CGCD): A universal genome-wide framework for microbial species delimitation. | Irene Antony
-Phylogenetic divergence with structural conservation in SBP families 
-
-
-Jose Antonio Ramirez Rafael
+| <span style="color:#D34E24">16h00 \- 16h30</span> | Julien Richard Albert - Using evolutionary signatures of rapid evolution to uncover novel factors in the transposon restriction pathway in Paramecium; Enzo Marsot
+ - Accurate and flexible reconciliation with neural networks; Khaoula El Mchachti -
+Core-Gene Consensus Delimitation (CGCD): A universal genome-wide framework for microbial species delimitation.| Irene Antony -
+Phylogenetic divergence with structural conservation in SBP families;Jose Antonio Ramirez Rafael -
 Simulation and reconstruction of host-symbiont-gene
 evolutionary scenarios with gene-to-gene interactions  |
 | <span style="color:#D34E24">16h30 \- 17h00</span> | Talk 3 Damien de Vienne  | Talk 6 Maribel Hernandez-Rosales  |
