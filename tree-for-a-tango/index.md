@@ -19,7 +19,7 @@ This workshop, will be on phylogeny and cophylogeny in general, mathematical mod
    
 **<span style="color:#647436">Damien de Vienne, LBBE, UCB Lyon 1, France.</span>**
 
-**<span style="color:#D34E24">Title: Ghost lineages: from methodological bias to evolutionary insight </span>**
+**<span style="color:#D34E24">Title: Ghost lineages: from methodological bias to evolutionary insight </span>** </span>**<a href="https://youtu.be/wH4VgyQccnQ?si=c9xK2Jzk1VYvdB7P">[presentation online here]</a>
 <br clear="left"/>
 
 **<span style="color:#D34E24">Abstract:</span>** To a first approximation, all species are extinct" (Raup 1991), and those that are not are mostly unknown. This huge hidden biodiversity, often referred to as ghost diversity, has been largely overlooked in (co)-phylogenetic studies over the last decades. In this talk, I will first illustrate the negative and systematic impact that ghost lineages have on phylogenetic methods aimed at detecting horizontal gene flow (gene transfers, introgressions). I will then present recent results demonstrating that ghost lineages, if considered properly, can in fact be detected and quantified thanks to the signatures they leave in phylogenetic trees through horizontal gene transfers. These new results open an exciting new line of research, in which extinct lineages that left no trace in the fossil record could still be revealed thanks to dedicated phylogenetic approaches.
@@ -29,7 +29,7 @@ Damien de Vienne is a CNRS research scientist affiliated with the Laboratoire de
 
 <img  title="a title" alt="Alt text" src="/assets/img/james.jpg" width="20%" height="20%" style="float: left;  padding-right: 10px; " />
 
-**<span style="color:#647436">James Rosindell, Faculty of Natural Sciences, Imperial College, United Kingdom.</span>**
+**<span style="color:#647436">James Rosindell, Faculty of Natural Sciences, Imperial College, United Kingdom.</span>**<a href="https://youtu.be/ZwJjmh0MrhA?si=BG7LS6MqeT6Wp9JD">[presentation online here]</a>
 
 **<span style="color:#D34E24">Title: Measuring and exploring the tree of life at the largest scales. </span>**
 <br clear="left"/>
@@ -43,7 +43,7 @@ Damien de Vienne is a CNRS research scientist affiliated with the Laboratoire de
 
 **<span style="color:#647436">Joana Xavier.</span>**
 
-**<span style="color:#D34E24">Title: New Paradigms from the Root: The Emergence of Cells from Geochemistry </span>**
+**<span style="color:#D34E24">Title: New Paradigms from the Root: The Emergence of Cells from Geochemistry </span>** <a href="https://youtu.be/l6fm4HALhHY?si=qixwjfkYdoycC6ic">[presentation online here]</a>
 <br clear="left"/>
 
 **<span style="color:#D34E24">Abstract: </span>** Dominant narratives in biology raised the gene to become the privileged agent of causality not only in evolution, but in life itself. Yet, no living system known to maintain itself or replicate does so without a membrane, proteins, and cofactors supporting its genome. Here I argue that contemporary origins of life research exposes deep fractures in Modern Synthesis, a stark position in Philosophy of Biology passing as science wearing reductionist garments. I will show that data-based, engineering-informed origins science reveals the essential cooperation of multiple cellular components. If simplistic paradigms remain appealing and easier to communicate widely, modern Biology demands Noble's relativity, Kauffman's complexity, and Fox Keller's attention to the power of metaphor. My work backs up the preceding arguments through (1) The reconstruction of ancient autocatalytic cores of metabolism, which can exhibit cooperation and adaptation in certain geochemical contexts independently of genetic replication; and (2) Exposing the vital role of cofactors in establishing and coordinating those networks, all the way to modern prokaryotes and us. Metabolic networks challenge reductionist assumptions and suggest instead a relational view where structure and function co-emerge from environmental constraints. Their origin and evolution depended not only on mutational variation but primarily on collective dynamics and deep environmental coupling. Processes such as constraint-based emergence and energy transfer are not background conditions, but co-constitutive with the evolution and unfolding of biological function. These findings extend current evolutionary paradigms by foregrounding systemic and multilevel causation, offering an empirically grounded and computationally formalizable path beyond the gene-to-trait paradigm.
@@ -67,7 +67,7 @@ Damien de Vienne is a CNRS research scientist affiliated with the Laboratoire de
 **<span style="color:#647436">Maribel Hernandez-Rosales, CINVESTAV Irapuato, Mexico.</span>**
 
 **<span style="color:#D34E24">Title: TREvolutionh-tl: integrating mathematics, algorithms and genomics to elucidate gene family histories </span>**
-<br clear="left"/>
+<br clear="left"/> <a href="https://youtu.be/2yQT3SQbROo?si=DDtb1rI0dO0ErN7j">[presentation online here]</a>
 
 **<span style="color:#D34E24">Abstract:</span>**
  How do gene families grow, shrink, and diversify across the tree of life? can we reconstruct that history reliably, rapidly, and at scale?
