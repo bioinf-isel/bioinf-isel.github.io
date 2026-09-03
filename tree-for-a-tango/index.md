@@ -19,7 +19,7 @@ This workshop, will be on phylogeny and cophylogeny in general, mathematical mod
    
 **<span style="color:#647436">Damien de Vienne, LBBE, UCB Lyon 1, France.</span>**
 
-**<span style="color:#D34E24">Title: Ghost lineages: from methodological bias to evolutionary insight </span>** </span>**<a href="https://youtu.be/wH4VgyQccnQ?si=c9xK2Jzk1VYvdB7P">[presentation online here]</a>
+**<span style="color:#D34E24">Title: Ghost lineages: from methodological bias to evolutionary insight </span>**<a href="https://youtu.be/wH4VgyQccnQ?si=c9xK2Jzk1VYvdB7P">[presentation online here]</a>
 <br clear="left"/>
 
 **<span style="color:#D34E24">Abstract:</span>** To a first approximation, all species are extinct" (Raup 1991), and those that are not are mostly unknown. This huge hidden biodiversity, often referred to as ghost diversity, has been largely overlooked in (co)-phylogenetic studies over the last decades. In this talk, I will first illustrate the negative and systematic impact that ghost lineages have on phylogenetic methods aimed at detecting horizontal gene flow (gene transfers, introgressions). I will then present recent results demonstrating that ghost lineages, if considered properly, can in fact be detected and quantified thanks to the signatures they leave in phylogenetic trees through horizontal gene transfers. These new results open an exciting new line of research, in which extinct lineages that left no trace in the fossil record could still be revealed thanks to dedicated phylogenetic approaches.
